@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+*.vsidx
+*.opendb
+*.db-wal
+*.db-shm
+*.user
+*.db
+Machine Learning Math CUDA/.vs/Machine Learning Math CUDA/v17/.suo
